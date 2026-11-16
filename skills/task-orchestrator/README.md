@@ -51,3 +51,5 @@ The optional [ODM workflow reference](references/odm-workflows.md) covers compan
 ## Skill instructions
 
 See [SKILL.md](SKILL.md) for the complete workflow.
+
+Each change to this skill is also recorded in a separate dated document under [`updates/`](updates/).
