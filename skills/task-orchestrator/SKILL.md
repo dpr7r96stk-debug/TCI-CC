@@ -46,3 +46,7 @@ Run the selected workflow through delivery, rather than ending with a skill reco
 Check the actual requested outputs: factual claims against sources, calculations against inputs, document or slide layout through rendering when required, generated images through inspection, and links or files through availability checks. Avoid claiming validation based only on a tool's success message.
 
 Finish with the deliverable or accessible link, a concise account of material checks, and any remaining limitation. Mention external skills added when applicable. Keep internal routing details brief unless requested. This is an in-conversation workflow, not a background scheduler or a guarantee that every skill can run in every environment.
+
+## Document updates to this skill
+
+When changing this skill or its references, create a new dated Markdown document under `updates/` for that update and publish it alongside the changed files when the user has authorized GitHub synchronization. Use a unique descriptive filename such as `YYYY-MM-DD-topic.md`; if another update has the same topic on that date, add a sequence suffix. Include the purpose, changed files, material behavior changes, verification performed, and known limits. Keep prior update documents intact. An update document records a completed change; it does not replace the current `SKILL.md` or its references. Link the new document in the delivery response.
