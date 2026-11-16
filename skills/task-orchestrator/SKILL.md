@@ -25,6 +25,7 @@ Common routing examples, subject to the live catalog:
 - Spreadsheet analysis: spreadsheets for files; google-sheets for native Google Sheets; excel-live-control only for a connected live workbook.
 - Social content with images: research when factual verification is needed -> writing skill -> imagegen for raster visuals. Keep publication separate from artifact creation unless publishing is authorized.
 - Existing cloud documents: use the corresponding provider skill and tools to preserve their native document identity.
+- Nutrition ODM/CDMO marketing, lead development, contact mapping, or brand customer-pool work: read [references/odm-workflows.md](references/odm-workflows.md) and route the requested stages there. Apply the user's own customer criteria and exclusion list when available.
 
 These are routing examples, not mandatory bundles or a frozen inventory. Read each selected skill's actual instructions. Avoid circular routing back to this skill or repeatedly loading the same instructions. Combining skills does not require spawning agents; use delegation only when independently authorized.
 
