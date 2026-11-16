@@ -53,3 +53,5 @@ The optional [ODM workflow reference](references/odm-workflows.md) covers compan
 See [SKILL.md](SKILL.md) for the complete workflow.
 
 Each change to this skill is also recorded in a separate dated document under [`updates/`](updates/).
+
+For weekly discovery, screening, and update PRs, use the companion [skill-update-scout](../skill-update-scout/SKILL.md) skill. It requires an external scheduler for unattended weekly runs.
