@@ -50,3 +50,5 @@ Finish with the deliverable or accessible link, a concise account of material ch
 ## Document updates to this skill
 
 When changing this skill or its references, create a new dated Markdown document under `updates/` for that update and publish it alongside the changed files when the user has authorized GitHub synchronization. Use a unique descriptive filename such as `YYYY-MM-DD-topic.md`; if another update has the same topic on that date, add a sequence suffix. Include the purpose, changed files, material behavior changes, verification performed, and known limits. Keep prior update documents intact. An update document records a completed change; it does not replace the current `SKILL.md` or its references. Link the new document in the delivery response.
+
+For a requested weekly scan of new skills or expansion of the ODM capability map, use the companion `skill-update-scout` skill when it is available. Its review and PR workflow does not run on a schedule unless a scheduler is separately configured.
